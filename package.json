@@ -1,0 +1,17 @@
+{
+  "name": "single-spa-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "single-spa": "^6.0.0-beta.3",
+    "single-spa-layout": "^2.1.0",
+    "typescript": "^5.0.4"
+  }
+}
